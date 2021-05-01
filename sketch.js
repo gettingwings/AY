@@ -47,7 +47,7 @@ function setup(){
 
 function draw(){
   imageMode(CORNER);
-   if(backgroundImg)
+   //if(backgroundImg)
        background(backgroundImg)
 
     Engine.update(engine);
